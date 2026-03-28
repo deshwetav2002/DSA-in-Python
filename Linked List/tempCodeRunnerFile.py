@@ -1,0 +1,5 @@
+ll.insertFirst(15)
+# ll.insertFirst(20)
+# ll.insertFirst(30)
+# ll.insertFirst(40)
+# ll.insertFirst(50)
